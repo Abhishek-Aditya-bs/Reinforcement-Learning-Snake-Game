@@ -2,9 +2,8 @@
 
 ## What is Reinforcement Learning?
 
-```
-Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward. This is done by Deep Q Learning which extends reinforcement learning by using deeper neural networks to predict the actions.
-```
+Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to take actions in an environment in order to  maximize the notion of cumulative reward. This is done by Deep Q Learning which extends reinforcement learning by using deeper neural networks to    predict the actions.
+
 
 ## Components
 
@@ -47,7 +46,9 @@ Reinforcement learning (RL) is an area of machine learning concerned with how so
 ### States
 
 ```
-[danger straight, danger right, danger left, direction left, direction right, direction up, direction down, food left, food right, food up, food down]
+[danger straight, danger right, danger left, 
+direction left, direction right, direction up, 
+direction down, food left, food right, food up, food down]
 ```
 
 For example:
